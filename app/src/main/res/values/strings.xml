@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">2018035_ReycycleView</string>
+
+    <string name="price">Price</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="Deskripsi">Deskripsi</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string-array name="mobil">
+        <item>Alpard</item>
+        <item>Fortuner</item>
+        <item>Innova Reborn</item>
+        <item>Toyota Avanza</item>
+    </string-array>
+    <string-array name="bintang">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="penjelasan">
+        <item>Rp. 500.000/Hari</item>
+        <item>Rp. 300.000/Hari</item>
+        <item>Rp. 250.000/Hari</item>
+        <item>Rp. 150.000/Hari</item>
+    </string-array>
+</resources>
